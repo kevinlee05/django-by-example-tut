@@ -24,7 +24,7 @@ lxml==4.0.0
 Markdown==2.6.2
 microsofttranslator==0.5
 oauthlib==2.0.4
-Pillow==2.9.0
+Pillow==8.3.2
 polib==1.0.8
 pycparser==2.18
 PyJWT==1.5.3
