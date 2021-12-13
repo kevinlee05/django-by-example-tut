@@ -20,7 +20,7 @@ django-taggit==0.17.1
 html5lib==0.999999999
 idna==2.6
 kombu==3.0.37
-lxml==4.0.0
+lxml==4.6.5
 Markdown==2.6.2
 microsofttranslator==0.5
 oauthlib==2.0.4
